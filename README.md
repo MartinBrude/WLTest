@@ -15,10 +15,10 @@ The app follows iOS directives and have an updated style, appropriate for the sh
 - Swinject
 
 ## Getting Started
-1. Download or clone the project
-2. open terminal and execute xcode-select -s /Applications/Xcode.app/Contents/Developer
-3. run pod install
-4. open the xcworkspace file
-5. run the app. 
+1. Download (and extract) or clone the project
+2. Open terminal and execute sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+3. Run pod install
+4. Open the xcworkspace file
+5. Run the app
 
 For running the app on a device, you might have to set the development Team in 'General' tab, under Signing section and change the Bundle Identifier. 
